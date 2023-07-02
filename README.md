@@ -10,7 +10,6 @@ Hi I'm Boris a frontend and python developer
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yuureB&theme=tokyonight&hide_border=false)<br/>
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yuureB&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 ![](https://github-profile-trophy.vercel.app/?username=yuureB&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4-ma&title=Commit)
 
 ### ✍️ Random Dev Quote
